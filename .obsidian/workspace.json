@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5965ba76db235aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83c8c6d4880f975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "754961f80ff1862f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf3b4e1acb6c7c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Technical guides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7184c1d6afa642a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Literature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9ecc5d59bf532f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ec74c2d7d719255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a54796438431f34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95b95accdd689e78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb9d9dbeea9972be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc02d871a631febf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8953b27901af00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb26173329f70ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "deecdc1c37cd8054",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b4ff524a9065b68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a93c0449d0214c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "8a54796438431f34",
+  "lastOpenFiles": [
+    "notes",
+    "CERN/Useful packages.md",
+    "CERN/Projects.md",
+    "CERN/ECN3/P42 dump func spec.md",
+    "CERN/Technical guides.md",
+    "CERN/Literature.md",
+    "CERN/Contacts.md",
+    "CERN/Actions.md",
+    "CERN/ECN3",
+    "CERN/Sloex",
+    "CERN/Notes.md",
+    "CERN/ECN3/NA access.md",
+    "CERN/Sloex/Slow extraction with crystals.md",
+    "CERN/Meetings/SLAWG meetings.md",
+    "CERN/Meetings.md",
+    "CERN/Meetings",
+    "CERN",
+    "Casual",
+    "Apple Notes/Vehicles.md",
+    "Untitled.md",
+    "CERN/Meetings/SLAWG coffee.md",
+    "CERN/Attachments/Pasted Graphic 2.png",
+    "CERN/Attachments/Pasted Graphic.png",
+    "CERN/Attachments/Pasted Graphic 1.png",
+    "CERN/Things to learn.md",
+    "CERN/Attachments/38db2e710963dd60e01f208764f4c6b53307f192_2_375x500.jpeg",
+    "CERN/Attachments/d224c919751f75226305ff5f037a95db6a637406_2_375x500.jpeg",
+    "CERN/Attachments/533829275965c55908ee3dc1806ce8101389b265_2_375x500.jpeg",
+    "CERN/Attachments/b7e4a61e0eec536a2ed5f6a948a151e8aeae2b58_2_375x500.jpeg",
+    "CERN/Attachments/8279885492ccc807d62164e767f947b65d74d844_2_375x500.jpeg",
+    "CERN/Attachments/0d52e491d93b9d39c22153a090e95fb2960addb0_2_690x171.jpeg",
+    "CERN/Attachments/7060a9932689ece0d586378e27a77a34b3c44ca9_2_690x486.jpeg",
+    "CERN/Attachments",
+    "Casual/Housing.md",
+    "Apple Notes/CERN",
+    "Apple Notes"
+  ]
+}
