@@ -11,8 +11,12 @@
             "id": "754961f80ff1862f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Projects.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CERN/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CERN/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +148,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "CERN/Projects.md"
+              }
+            }
+          },
+          {
+            "id": "7185c23bad21f91e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +179,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8a54796438431f34",
+  "active": "754961f80ff1862f",
   "lastOpenFiles": [
+    "token.md",
+    "CERN/Projects.md",
+    "Untitled",
     "notes",
     "CERN/Useful packages.md",
-    "CERN/Projects.md",
     "CERN/ECN3/P42 dump func spec.md",
     "CERN/Technical guides.md",
     "CERN/Literature.md",
@@ -184,7 +202,6 @@
     "CERN",
     "Casual",
     "Apple Notes/Vehicles.md",
-    "Untitled.md",
     "CERN/Meetings/SLAWG coffee.md",
     "CERN/Attachments/Pasted Graphic 2.png",
     "CERN/Attachments/Pasted Graphic.png",

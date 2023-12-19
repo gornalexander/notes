@@ -1,12 +1,9 @@
 #CERN 
 
 ## Actions:
+[Jira](https://its.cern.ch/jira/plugins/servlet/project-config/SEXTWG/summary)
 - We should check the P4 TAX apertures with Luke to make sure they suit us in the future. They can be optimised because NA-CONS will replace the P4 TAX blocks in Long Shutdown 3 and we will have an opportunity to modify the design. There is an EDMS document 2747997 where we should give input: https://edms.cern.ch/document/2747997/0.1 Beam transverse profile after T4/T10 targets?
-- P42 seq check
-- Centre P42 dump on "circulating beam" and recompute apertures
-- Find kick strength to balance both extracted beam and circulating beam aperture
-- Check both cases: dumping dedicated and shared beam optics (they are probably very similar if rematch is good)
-- Check vacuum chambers between dipole and dump together with Giulia and Rui (TIDVG aperture also): do we need to modify the chambers?
+- P42 seq check (apertures, magnet strengths and xyz)
 - Check position of dump with SRR and update a sequence together with Luke and BE-EA
 - Tunnel slope
 - Issue with magnet types
