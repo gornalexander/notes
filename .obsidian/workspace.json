@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Literature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fcf132f8470c457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "right": {
     "id": "cc02d871a631febf",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Projects.md"
+                "file": "CERN/Study.md"
               }
             }
           },
@@ -162,11 +175,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,17 +192,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "754961f80ff1862f",
+  "active": "2fcf132f8470c457",
   "lastOpenFiles": [
-    "token.md",
+    "CERN/Literature.md",
+    "CERN/Contacts.md",
+    "CERN/Study.md",
+    "CERN/Attachments/Pasted image 20231220104849.png",
+    "Pasted image 20231220104849.png{width=50%}.md",
     "CERN/Projects.md",
+    "CERN/ECN3/P42 dump func spec.md",
+    "token.md",
     "Untitled",
     "notes",
     "CERN/Useful packages.md",
-    "CERN/ECN3/P42 dump func spec.md",
     "CERN/Technical guides.md",
-    "CERN/Literature.md",
-    "CERN/Contacts.md",
     "CERN/Actions.md",
     "CERN/ECN3",
     "CERN/Sloex",
@@ -213,7 +229,6 @@
     "CERN/Attachments/b7e4a61e0eec536a2ed5f6a948a151e8aeae2b58_2_375x500.jpeg",
     "CERN/Attachments/8279885492ccc807d62164e767f947b65d74d844_2_375x500.jpeg",
     "CERN/Attachments/0d52e491d93b9d39c22153a090e95fb2960addb0_2_690x171.jpeg",
-    "CERN/Attachments/7060a9932689ece0d586378e27a77a34b3c44ca9_2_690x486.jpeg",
     "CERN/Attachments",
     "Casual/Housing.md",
     "Apple Notes/CERN",

@@ -2,6 +2,10 @@
 
 ## Actions:
 [Jira](https://its.cern.ch/jira/plugins/servlet/project-config/SEXTWG/summary)
+Luke:
+
+
+Me:
 - We should check the P4 TAX apertures with Luke to make sure they suit us in the future. They can be optimised because NA-CONS will replace the P4 TAX blocks in Long Shutdown 3 and we will have an opportunity to modify the design. There is an EDMS document 2747997 where we should give input: https://edms.cern.ch/document/2747997/0.1 Beam transverse profile after T4/T10 targets?
 - P42 seq check (apertures, magnet strengths and xyz)
 - Check position of dump with SRR and update a sequence together with Luke and BE-EA
