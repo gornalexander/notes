@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Literature.md",
+                "file": "Casual/Housing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb204afd000ab6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,21 +204,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2fcf132f8470c457",
+  "active": "cb204afd000ab6f5",
   "lastOpenFiles": [
-    "token.md",
+    "Casual/Vehicles.md",
+    "Casual/Housing.md",
+    "Casual/Vehicles",
+    "CERN/Literature.md",
+    "CERN/Technical guides.md",
     "CERN/Projects.md",
+    "token.md",
     "CERN/Meetings.md",
     "CERN/ECN3/P42 dump func spec.md",
     "CERN/Actions.md",
     "CERN/Contacts.md",
-    "CERN/Literature.md",
     "CERN/Notes.md",
     "CERN/Study.md",
-    "CERN/Technical guides.md",
     "CERN/Attachments/Pasted image 20231220104849.png",
     "Pasted image 20231220104849.png{width=50%}.md",
-    "Untitled",
     "notes",
     "CERN/Useful packages.md",
     "CERN/ECN3",
@@ -230,7 +244,6 @@
     "CERN/Attachments/8279885492ccc807d62164e767f947b65d74d844_2_375x500.jpeg",
     "CERN/Attachments/0d52e491d93b9d39c22153a090e95fb2960addb0_2_690x171.jpeg",
     "CERN/Attachments",
-    "Casual/Housing.md",
     "Apple Notes/CERN",
     "Apple Notes"
   ]
