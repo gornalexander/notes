@@ -1,9 +1,9 @@
 #CERN 
 
 ## Actions:
-[Jira](https://its.cern.ch/jira/plugins/servlet/project-config/SEXTWG/summary)
-Luke:
-[SEXTWG-6](https://its.cern.ch/jira/browse/SEXTWG-6) - Accept the [merge request](https://gitlab.cern.ch/acc-models/acc-models-ea/-/merge_requests/2) (Change the location of TCMAA.X0400001 (correct is between 65 cm and 105 cm)).   
+[Jira](https://its.cern.ch/jira/plugins/servlet/project-config/SEXTWG/summary)   
+Luke:  
+[SEXTWG-6](https://its.cern.ch/jira/browse/SEXTWG-6) - Accept the [merge request](https://gitlab.cern.ch/acc-models/acc-models-ea/-/merge_requests/2.  (Change the location of TCMAA.X0400001 (correct is between 65 cm and 105 cm)).   
 [SEXTWG-12](https://its.cern.ch/jira/browse/SEXTWG-12) - Provide the distribution of the beam after interaction with air in P42 XTAX.   
 [SEXTWG-15](https://its.cern.ch/jira/browse/SEXTWG-15) - Accept the [merge request](https://gitlab.cern.ch/acc-models/acc-models-ea/-/merge_requests/3) (Change MDX aperture to 80 mm).   
 
