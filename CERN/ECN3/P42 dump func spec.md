@@ -22,9 +22,9 @@ Dumped beam. From safety point of view, I would lift the Q 169 higher (now 10 mm
 
 TIDVG, Q 284, Q341 and MDX_new are along the straight line.
 
-![[Pasted Graphic.png]]
+![[Pasted Graphic 3.png]]
 
 
 Lowest possible position for Q 284 and Q 341
 
-![[Pasted Graphic 2.png]]
+![[Pasted Graphic 2 1.png]]

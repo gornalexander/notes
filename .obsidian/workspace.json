@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "754961f80ff1862f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CERN/Literature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fcf132f8470c457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CERN/Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf3b4e1acb6c7c9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CERN/Technical guides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7184c1d6afa642a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Casual/Housing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb204afd000ab6f5",
+            "id": "04675ff6e0d7d047",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fe635268a39d483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Study.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Study.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Study.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -204,8 +168,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cb204afd000ab6f5",
+  "active": "6fe635268a39d483",
   "lastOpenFiles": [
+    "CERN/Study.md",
+    "Untitled.md",
+    "CERN/Things to learn.md",
+    "Connections.canvas",
+    "CERN/Sloex/Slow extraction with crystals.md",
+    "CERN/Attachments/Pasted Graphic 2 1.png",
+    "CERN/Attachments/Pasted Graphic 3.png",
+    "Casual/Shops.md",
     "CERN/Projects.md",
     "Casual/Vehicles.md",
     "Casual/Housing.md",
@@ -218,7 +190,6 @@
     "CERN/Actions.md",
     "CERN/Contacts.md",
     "CERN/Notes.md",
-    "CERN/Study.md",
     "CERN/Attachments/Pasted image 20231220104849.png",
     "Pasted image 20231220104849.png{width=50%}.md",
     "notes",
@@ -226,7 +197,6 @@
     "CERN/ECN3",
     "CERN/Sloex",
     "CERN/ECN3/NA access.md",
-    "CERN/Sloex/Slow extraction with crystals.md",
     "CERN/Meetings/SLAWG meetings.md",
     "CERN/Meetings",
     "CERN",
@@ -236,13 +206,10 @@
     "CERN/Attachments/Pasted Graphic 2.png",
     "CERN/Attachments/Pasted Graphic.png",
     "CERN/Attachments/Pasted Graphic 1.png",
-    "CERN/Things to learn.md",
     "CERN/Attachments/38db2e710963dd60e01f208764f4c6b53307f192_2_375x500.jpeg",
     "CERN/Attachments/d224c919751f75226305ff5f037a95db6a637406_2_375x500.jpeg",
     "CERN/Attachments/533829275965c55908ee3dc1806ce8101389b265_2_375x500.jpeg",
     "CERN/Attachments/b7e4a61e0eec536a2ed5f6a948a151e8aeae2b58_2_375x500.jpeg",
-    "CERN/Attachments/8279885492ccc807d62164e767f947b65d74d844_2_375x500.jpeg",
-    "CERN/Attachments/0d52e491d93b9d39c22153a090e95fb2960addb0_2_690x171.jpeg",
     "CERN/Attachments",
     "Apple Notes/CERN",
     "Apple Notes"

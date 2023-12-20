@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1016293dc049dc4c","type":"group","x":4,"y":300,"width":896,"height":440,"label":"SLAWG"},
+		{"id":"1398448f226c5bcd","type":"file","file":"CERN/Meetings.md","x":-660,"y":320,"width":400,"height":400},
+		{"id":"499746012a153e8a","type":"file","file":"CERN/Meetings/SLAWG coffee.md","x":480,"y":320,"width":400,"height":400},
+		{"id":"b4465a497aa47f7d","type":"file","file":"CERN/Meetings/SLAWG meetings.md","x":40,"y":320,"width":400,"height":400},
+		{"id":"62743b440aa5dccc","type":"file","file":"CERN/Projects.md","x":-660,"y":-900,"width":400,"height":520},
+		{"id":"58c1c6bf6baf4985","type":"file","file":"CERN/ECN3/P42 dump func spec.md","x":40,"y":-1000,"width":400,"height":360},
+		{"id":"0795bbd12a2db400","type":"file","file":"CERN/Sloex/Slow extraction with crystals.md","x":40,"y":-500,"width":412,"height":380}
+	],
+	"edges":[
+		{"id":"1b5fd61cf1586689","fromNode":"1398448f226c5bcd","fromSide":"right","toNode":"1016293dc049dc4c","toSide":"left"},
+		{"id":"e6f3227f5b2bc7fa","fromNode":"62743b440aa5dccc","fromSide":"right","toNode":"58c1c6bf6baf4985","toSide":"left"},
+		{"id":"f0c2518e4f2935f0","fromNode":"62743b440aa5dccc","fromSide":"right","toNode":"0795bbd12a2db400","toSide":"left"}
+	]
+}
