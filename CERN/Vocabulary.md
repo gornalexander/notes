@@ -1,0 +1,18 @@
+- TF - Task Force
+- HI - High Intensity
+- SFTPRO
+- ECN3
+- PBC - The Physics Beyond Colliders
+- NA-CONS project - North Area Consolidation
+- TCC2 target
+- P42 dump
+- TT20 optics
+- T4 target
+- TCSC
+- XTAX
+- T4 TBI
+- LCC2 to TCC2
+- TCC2 to TCC8
+- TDC2
+- BA82
+- LS3

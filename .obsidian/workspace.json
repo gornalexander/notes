@@ -25,7 +25,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Literature.md",
+                "file": "CERN/Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "277bb2d552ed591a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ea2a08d370a03bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12d7cec1e056e6af",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Connections.canvas",
+                "viewState": {
+                  "x": 160.12340163934425,
+                  "y": -181.06614754098348,
+                  "zoom": -0.9716377769231395
+                }
+              }
+            }
+          },
+          {
+            "id": "2aef791edc83a7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Meetings/SLAWG members.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +88,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPS slow extraction.md",
+                "file": "CERN/Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "432e9a6922c6b244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Literature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29148a05b15ade50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Literature.md",
+                "file": "CERN/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Literature.md",
+                "file": "CERN/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Literature.md"
+                "file": "CERN/Projects.md"
               }
             }
           },
@@ -164,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,44 +255,48 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6fe635268a39d483",
+  "active": "5ea2a08d370a03bf",
   "lastOpenFiles": [
-    "SPS slow extraction.md",
     "CERN/Literature.md",
+    "CERN/Projects.md",
+    "CERN/Meetings.md",
+    "CERN/Actions.md",
+    "CERN/Things to learn.md",
+    "CERN/Study.md",
+    "CERN/Events.md",
+    "CERN/Vocabulary.md",
+    "CERN/Technical guides.md",
+    "CERN/Useful python packages.md",
+    "Connections.canvas",
+    "CERN/Resources.md",
+    "CERN/Sloex/SPS slow extraction.md",
+    "CERN/Meetings/SLAWG meetings.md",
+    "CERN/Meetings/SLAWG members.md",
+    "CERN/Meetings/SLAWG coffee.md",
     "~$MFraser_FNAL_CERN_OCTU.pptx",
     "MFraser_FNAL_CERN_OCTU.pptx",
     "Articles",
-    "CERN/Study.md",
-    "CERN/Things to learn.md",
-    "Connections.canvas",
     "CERN/Sloex/Slow extraction with crystals.md",
     "CERN/Attachments/Pasted Graphic 2 1.png",
     "CERN/Attachments/Pasted Graphic 3.png",
     "Casual/Shops.md",
-    "CERN/Projects.md",
     "Casual/Vehicles.md",
     "Casual/Housing.md",
     "Casual/Vehicles",
-    "CERN/Technical guides.md",
     "token.md",
-    "CERN/Meetings.md",
     "CERN/ECN3/P42 dump func spec.md",
-    "CERN/Actions.md",
     "CERN/Contacts.md",
-    "CERN/Notes.md",
+    "Notes.md",
     "CERN/Attachments/Pasted image 20231220104849.png",
     "Pasted image 20231220104849.png{width=50%}.md",
     "notes",
-    "CERN/Useful packages.md",
     "CERN/ECN3",
     "CERN/Sloex",
     "CERN/ECN3/NA access.md",
-    "CERN/Meetings/SLAWG meetings.md",
     "CERN/Meetings",
     "CERN",
     "Casual",
     "Apple Notes/Vehicles.md",
-    "CERN/Meetings/SLAWG coffee.md",
     "CERN/Attachments/Pasted Graphic 2.png",
     "CERN/Attachments/Pasted Graphic.png",
     "CERN/Attachments/Pasted Graphic 1.png",

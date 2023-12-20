@@ -1,12 +1,9 @@
 #CERN 
 
-<span style="font-size:14pt;"><b><u>MAD-X</u></b></span>
-Asd
+### Python packages
+In order to install CERN py libraries one has to configure the pip client first [[Useful python packages#^4b0333]]
 
-<span style="font-size:14pt;"><b><u>Python packages</u></b></span>
-<span style="font-size:14pt;">In order to install CERN py libraries one has to configure the pip client first</span> <a href="https://wikis.cern.ch/display/ACCPY/Python+package+index" rel="noopener" class="external-link" target="_blank" style="font-size:14pt;">https://wikis.cern.ch/display/ACCPY/Python+package+index</a> 
-
-<span style="font-size:14pt;"><b><u>SSHFS</u></b></span>
+### SSHFS
 To mount:
 sshfs lxplus: lxplus -o follow_symlinks -o ServerAliveInterval=120
 
@@ -15,7 +12,7 @@ sudo diskutil umount force ~/afs
 sudo diskutil umount force ~/eos
 sudo diskutil umount force ~/lxplus
 
-<span style="font-size:14pt;"><b><u>Virtual Machine for Technical Network</u></b></span> 
+### Virtual machine for Technical Network
 [CERN guide](https://wikis.cern.ch/display/ACCADM/VPC+RHEL9+Virtual+Machine+User+Manual)
 Support <a href="mailto:vpc-support@cern.ch" rel="noopener" class="external-link" target="_blank"><u>vpc-support@cern.ch</u></a>
 
@@ -34,7 +31,7 @@ Open Microsoft Remote Desktop and connect to your VPC IP.
 To reboot:
 *sudo reboot*
 
-## <b><u>Jupyter lab on lxplus</u></b>
+### Jupyter lab on lxplus
 On lxplus:
 jupyter notebook --no-browser --port=8080 &
 
@@ -42,13 +39,13 @@ On local machine:
 ssh -L 8080:127.0.0.1:8080 [gorna@lxplus717.cern.ch](mailto:gorna@lxplus717.cern.ch)
 http://127.0.0.1:8080/tree?token=c57cd288db7d325aed489e652f8626ba80756691e624a6c1
 
-<span style="font-size:14pt;"><b><u>SWAN</u></b></span>
+### SWAN
 Environment script:
 /eos/project/a/abt-group/Software/Swan/startup_PRO
 
 Install packages: https://swan.docs.cern.ch/advanced/install_packages/ 
 
-<span style="font-size:14pt;"><b><u>Remote access through lxtunnel</u></b></span>
+### LX tunnel
 
 ssh -D 8888 lxtunnel.cern.ch
 
