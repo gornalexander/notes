@@ -1,3 +1,4 @@
 #CERN #Sloex 
 
-Slow extraction n SPS is momentum-driven. 
+Slow extraction in SPS is momentum-driven. 
+[[Literature#^547078|PIMM slow extraction]]

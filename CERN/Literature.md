@@ -56,10 +56,10 @@ Post LS3 options via PBC
 https://cds.cern.ch/record/2867743?ln=en
 
 # **SLOEX**
-Demonstration of slow extraction loss reduction with the application of octupoles at the CERN Super Proton Synchrotron (M. Fraser +) <a href="https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.123501" rel="noopener" class="external-link" target="_blank" style="color:#e4afaff;"><u>https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.123501</u></a> 
+Demonstration of slow extraction loss reduction with the application of octupoles at the CERN Super Proton Synchrotron (M. Fraser+) <a href="https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.123501" rel="noopener" class="external-link" target="_blank" style="color:#e4afaff;"><u>https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.123501</u></a>  ^61fc93
 
 PIMM slow extraction 
-https://inspirehep.net/files/7ae070188baebe539cc4659771f73bad
+https://inspirehep.net/files/7ae070188baebe539cc4659771f73bad ^547078
 
 
 

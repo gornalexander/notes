@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "CERN/Literature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d5a345b81e58e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "SPS slow extraction.md",
                 "mode": "source",
                 "source": false
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPS slow extraction.md",
+                "file": "CERN/Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPS slow extraction.md",
+                "file": "CERN/Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPS slow extraction.md"
+                "file": "CERN/Literature.md"
               }
             }
           },
@@ -170,8 +183,8 @@
   },
   "active": "6fe635268a39d483",
   "lastOpenFiles": [
-    "CERN/Literature.md",
     "SPS slow extraction.md",
+    "CERN/Literature.md",
     "~$MFraser_FNAL_CERN_OCTU.pptx",
     "MFraser_FNAL_CERN_OCTU.pptx",
     "Articles",
