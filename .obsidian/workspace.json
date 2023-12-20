@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Projects.md"
+                "file": "CERN/Study.md"
               }
             }
           },
@@ -206,12 +206,12 @@
   },
   "active": "cb204afd000ab6f5",
   "lastOpenFiles": [
+    "CERN/Projects.md",
     "Casual/Vehicles.md",
     "Casual/Housing.md",
     "Casual/Vehicles",
     "CERN/Literature.md",
     "CERN/Technical guides.md",
-    "CERN/Projects.md",
     "token.md",
     "CERN/Meetings.md",
     "CERN/ECN3/P42 dump func spec.md",
