@@ -3,9 +3,9 @@
 ## Actions:
 [Jira](https://its.cern.ch/jira/plugins/servlet/project-config/SEXTWG/summary)
 Luke:
-[SEXTWG-6](https://its.cern.ch/jira/browse/SEXTWG-6) - Accept the [merge request](https://gitlab.cern.ch/acc-models/acc-models-ea/-/merge_requests/2) (Change the location of TCMAA.X0400001 (correct is between 65 cm and 105 cm)). 
-[SEXTWG-12](https://its.cern.ch/jira/browse/SEXTWG-12) - Provide the distribution of the beam after interaction with air in P42 XTAX. 
-[SEXTWG-15](https://its.cern.ch/jira/browse/SEXTWG-15) - Accept the [merge request](https://gitlab.cern.ch/acc-models/acc-models-ea/-/merge_requests/3) (Change MDX aperture to 80 mm). 
+[SEXTWG-6](https://its.cern.ch/jira/browse/SEXTWG-6) - Accept the [merge request](https://gitlab.cern.ch/acc-models/acc-models-ea/-/merge_requests/2) (Change the location of TCMAA.X0400001 (correct is between 65 cm and 105 cm)).   
+[SEXTWG-12](https://its.cern.ch/jira/browse/SEXTWG-12) - Provide the distribution of the beam after interaction with air in P42 XTAX.   
+[SEXTWG-15](https://its.cern.ch/jira/browse/SEXTWG-15) - Accept the [merge request](https://gitlab.cern.ch/acc-models/acc-models-ea/-/merge_requests/3) (Change MDX aperture to 80 mm).   
 
 Me:
 - We should check the P4 TAX apertures with Luke to make sure they suit us in the future. They can be optimised because NA-CONS will replace the P4 TAX blocks in Long Shutdown 3 and we will have an opportunity to modify the design. There is an EDMS document 2747997 where we should give input: https://edms.cern.ch/document/2747997/0.1 . Beam transverse profile after T4/T10 targets?
