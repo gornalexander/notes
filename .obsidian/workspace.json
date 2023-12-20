@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "SPS slow extraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "SPS slow extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "SPS slow extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "SPS slow extraction.md"
               }
             }
           },
@@ -170,8 +170,12 @@
   },
   "active": "6fe635268a39d483",
   "lastOpenFiles": [
+    "CERN/Literature.md",
+    "SPS slow extraction.md",
+    "~$MFraser_FNAL_CERN_OCTU.pptx",
+    "MFraser_FNAL_CERN_OCTU.pptx",
+    "Articles",
     "CERN/Study.md",
-    "Untitled.md",
     "CERN/Things to learn.md",
     "Connections.canvas",
     "CERN/Sloex/Slow extraction with crystals.md",
@@ -182,7 +186,6 @@
     "Casual/Vehicles.md",
     "Casual/Housing.md",
     "Casual/Vehicles",
-    "CERN/Literature.md",
     "CERN/Technical guides.md",
     "token.md",
     "CERN/Meetings.md",
@@ -209,9 +212,6 @@
     "CERN/Attachments/38db2e710963dd60e01f208764f4c6b53307f192_2_375x500.jpeg",
     "CERN/Attachments/d224c919751f75226305ff5f037a95db6a637406_2_375x500.jpeg",
     "CERN/Attachments/533829275965c55908ee3dc1806ce8101389b265_2_375x500.jpeg",
-    "CERN/Attachments/b7e4a61e0eec536a2ed5f6a948a151e8aeae2b58_2_375x500.jpeg",
-    "CERN/Attachments",
-    "Apple Notes/CERN",
-    "Apple Notes"
+    "CERN/Attachments/b7e4a61e0eec536a2ed5f6a948a151e8aeae2b58_2_375x500.jpeg"
   ]
 }

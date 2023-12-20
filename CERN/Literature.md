@@ -58,5 +58,10 @@ https://cds.cern.ch/record/2867743?ln=en
 # **SLOEX**
 Demonstration of slow extraction loss reduction with the application of octupoles at the CERN Super Proton Synchrotron (M. Fraser +) <a href="https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.123501" rel="noopener" class="external-link" target="_blank" style="color:#e4afaff;"><u>https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.123501</u></a> 
 
+PIMM slow extraction 
+https://inspirehep.net/files/7ae070188baebe539cc4659771f73bad
+
+
+
 Crystals:
 Quasi-mosaic crystal for LHC <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.97.144801" rel="noopener" class="external-link" target="_blank"><u>https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.97.144801</u></a>
