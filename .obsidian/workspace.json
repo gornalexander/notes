@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Study.md",
+                "file": "CERN/Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Study.md",
+                "file": "CERN/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Study.md",
+                "file": "CERN/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Study.md"
+                "file": "CERN/Projects.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,26 +194,26 @@
   },
   "active": "2fcf132f8470c457",
   "lastOpenFiles": [
-    "CERN/Literature.md",
-    "CERN/Contacts.md",
-    "CERN/Study.md",
-    "CERN/Attachments/Pasted image 20231220104849.png",
-    "Pasted image 20231220104849.png{width=50%}.md",
+    "CERN/Meetings.md",
     "CERN/Projects.md",
     "CERN/ECN3/P42 dump func spec.md",
+    "CERN/Actions.md",
+    "CERN/Contacts.md",
+    "CERN/Literature.md",
+    "CERN/Notes.md",
+    "CERN/Study.md",
+    "CERN/Technical guides.md",
+    "CERN/Attachments/Pasted image 20231220104849.png",
+    "Pasted image 20231220104849.png{width=50%}.md",
     "token.md",
     "Untitled",
     "notes",
     "CERN/Useful packages.md",
-    "CERN/Technical guides.md",
-    "CERN/Actions.md",
     "CERN/ECN3",
     "CERN/Sloex",
-    "CERN/Notes.md",
     "CERN/ECN3/NA access.md",
     "CERN/Sloex/Slow extraction with crystals.md",
     "CERN/Meetings/SLAWG meetings.md",
-    "CERN/Meetings.md",
     "CERN/Meetings",
     "CERN",
     "Casual",
