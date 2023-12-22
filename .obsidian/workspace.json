@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "514348b4bdd9f19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kobayashi hamiltonian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2aef791edc83a7c1",
             "type": "leaf",
             "state": {
@@ -104,28 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "0a61ffb6011be3ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "12d7cec1e056e6af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Connections.canvas",
-                "viewState": {
-                  "x": -217.4013319672132,
-                  "y": 54.20288934426242,
-                  "zoom": -0.9716377769231395
-                }
-              }
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Study.md",
+                "file": "Kobayashi hamiltonian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Study.md",
+                "file": "Kobayashi hamiltonian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Study.md"
+                "file": "Kobayashi hamiltonian.md"
               }
             }
           },
@@ -261,12 +252,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5ea2a08d370a03bf",
+  "active": "514348b4bdd9f19b",
   "lastOpenFiles": [
-    "Connections.canvas",
+    "Pasted image 20231222093552.png",
+    "CERN/Attachments/Pasted image 20231220163740.png",
+    "Kobayashi hamiltonian.md",
+    "CERN/Attachments/Pasted image 20231222090841.png",
     "CERN/Study.md",
+    "CERN/Study",
+    "Connections.canvas",
     "CERN/Sloex/SPS slow extraction.md",
-    "Pasted image 20231220163740.png",
     "CERN/Meetings/SLAWG meetings.md",
     "CERN/Projects.md",
     "CERN/Literature.md",
@@ -299,15 +294,12 @@
     "notes",
     "CERN/ECN3",
     "CERN/Sloex",
-    "CERN/ECN3/NA access.md",
     "CERN/Meetings",
     "CERN",
-    "Casual",
     "CERN/Attachments/Pasted Graphic 2.png",
     "CERN/Attachments/Pasted Graphic.png",
     "CERN/Attachments/Pasted Graphic 1.png",
     "CERN/Attachments/38db2e710963dd60e01f208764f4c6b53307f192_2_375x500.jpeg",
-    "CERN/Attachments/d224c919751f75226305ff5f037a95db6a637406_2_375x500.jpeg",
-    "CERN/Attachments/533829275965c55908ee3dc1806ce8101389b265_2_375x500.jpeg"
+    "CERN/Attachments/d224c919751f75226305ff5f037a95db6a637406_2_375x500.jpeg"
   ]
 }
