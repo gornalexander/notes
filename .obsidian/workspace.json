@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Study/Kobayashi hamiltonian.md",
+                "file": "CERN/Useful python packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Study/Kobayashi hamiltonian.md",
+                "file": "CERN/Useful python packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Study/Kobayashi hamiltonian.md",
+                "file": "CERN/Useful python packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Study/Kobayashi hamiltonian.md"
+                "file": "CERN/Useful python packages.md"
               }
             }
           },
@@ -266,9 +266,9 @@
   },
   "active": "83787288b524e286",
   "lastOpenFiles": [
+    "CERN/Study/Kobayashi hamiltonian.md",
     "CERN/Vocabulary.md",
     "CERN/Timings and deadlines.md",
-    "CERN/Study/Kobayashi hamiltonian.md",
     "CERN/Attachments/Pasted image 20231222093552.png",
     "CERN/Attachments/Pasted image 20231220163740.png",
     "CERN/Attachments/Pasted image 20231222090841.png",

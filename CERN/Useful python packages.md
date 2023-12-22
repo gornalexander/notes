@@ -8,6 +8,7 @@ pybt (Y. Dutheil) https://gitlab.cern.ch/abt-optics-and-code-repository/simulati
 madplot https://gitlab.com/Dominik1123/madplot 
 xsuite (xobjects, xtrack, xpart, xfields) https://xsuite.readthedocs.io/en/latest/index.html 
 madcoll (P. Arrutia) https://gitlab.cern.ch/parrutia/madcoll  ^4b0333
+xtrack https://github.com/deveres99/xtrack/tree/modulated-henon-map
 ### Visualisation
 seaborn https://seaborn.pydata.org/
 Holoviews https://holoviews.org/
