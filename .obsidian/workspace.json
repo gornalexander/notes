@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kobayashi hamiltonian.md",
+                "file": "CERN/Study/Kobayashi hamiltonian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83787288b524e286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Study/Kobayashi hamiltonian.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kobayashi hamiltonian.md",
+                "file": "CERN/Study/Kobayashi hamiltonian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kobayashi hamiltonian.md",
+                "file": "CERN/Study/Kobayashi hamiltonian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kobayashi hamiltonian.md"
+                "file": "CERN/Study/Kobayashi hamiltonian.md"
               }
             }
           },
@@ -252,11 +264,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "514348b4bdd9f19b",
+  "active": "83787288b524e286",
   "lastOpenFiles": [
-    "Pasted image 20231222093552.png",
+    "CERN/Vocabulary.md",
+    "CERN/Timings and deadlines.md",
+    "CERN/Study/Kobayashi hamiltonian.md",
+    "CERN/Attachments/Pasted image 20231222093552.png",
     "CERN/Attachments/Pasted image 20231220163740.png",
-    "Kobayashi hamiltonian.md",
     "CERN/Attachments/Pasted image 20231222090841.png",
     "CERN/Study.md",
     "CERN/Study",
@@ -269,7 +283,6 @@
     "CERN/Actions.md",
     "CERN/Things to learn.md",
     "CERN/Events.md",
-    "CERN/Vocabulary.md",
     "CERN/Technical guides.md",
     "CERN/Useful python packages.md",
     "CERN/Resources.md",
@@ -299,7 +312,6 @@
     "CERN/Attachments/Pasted Graphic 2.png",
     "CERN/Attachments/Pasted Graphic.png",
     "CERN/Attachments/Pasted Graphic 1.png",
-    "CERN/Attachments/38db2e710963dd60e01f208764f4c6b53307f192_2_375x500.jpeg",
-    "CERN/Attachments/d224c919751f75226305ff5f037a95db6a637406_2_375x500.jpeg"
+    "CERN/Attachments/38db2e710963dd60e01f208764f4c6b53307f192_2_375x500.jpeg"
   ]
 }
