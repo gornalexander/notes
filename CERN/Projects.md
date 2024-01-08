@@ -59,7 +59,8 @@ MDS and MDX magnets apertures are to be checked, especially around the dump. Mos
 [Functional specification](https://edms.cern.ch/document/2747997/0.1)
 [P42 losses](https://indico.cern.ch/event/1290323/contributions/5421729/attachments/2660740/4609351/lukeDyksp42BDSIM_06062023.pdf) (L. Dyks)
 FEM analysis of the windows of the T4 TBIU/Ds (250μm Titanium foil), wobblers (0.5mm of Al5052-H19) and vacuum chamber upstream the TAX (0.2mm of Al5052-H19) [https://edms.cern.ch/document/2812844](https://edms.cern.ch/document/2812844)
-##### T4 VXSS ?
+##### T4
+T4/TAX - [Efficiency analysis FLUKA](https://indico.cern.ch/event/1229570/contributions/5174870/attachments/2565774/4423350/T4_TAX_Efficiency_13122022.pdf)
 VXSS Consolidation Strategy <a href="https://edms.cern.ch/document/2933169" rel="noopener" class="external-link" target="_blank"><u>https://edms.cern.ch/document/2933169</u></a> (T4 will be without VXSS until LS3)
 ##### TT20 new equipment
 [Fast spill monitors](https://indico.cern.ch/event/1340570/contributions/5643409/attachments/2747326/4781566/20231107_FSM_Status_SPSMPC_SBenitez.pdf) (S. Benítez Berrocal) 

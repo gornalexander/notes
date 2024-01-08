@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current status.md",
+                "file": "CERN/Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current status.md",
+                "file": "CERN/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current status.md",
+                "file": "CERN/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current status.md"
+                "file": "CERN/Projects.md"
               }
             }
           },
@@ -278,8 +278,8 @@
   },
   "active": "9db827ee8d9a7298",
   "lastOpenFiles": [
-    "CERN/Useful python packages.md",
     "Current status.md",
+    "CERN/Useful python packages.md",
     "CERN/Study/Kobayashi hamiltonian.md",
     "CERN/Vocabulary.md",
     "CERN/Timings and deadlines.md",
