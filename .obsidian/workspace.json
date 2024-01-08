@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "Current status.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,18 +98,6 @@
               "type": "markdown",
               "state": {
                 "file": "CERN/Meetings/SLAWG members.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d5a345b81e58e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CERN/Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,6 +129,24 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "7b691b2b46c03812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5a345b81e58e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Projects.md"
+                "file": "CERN/Meetings.md"
               }
             }
           },
@@ -276,8 +282,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9db827ee8d9a7298",
+  "active": "6d5a345b81e58e3e",
   "lastOpenFiles": [
+    "CERN/Projects.md",
     "Current status.md",
     "CERN/Useful python packages.md",
     "CERN/Study/Kobayashi hamiltonian.md",
@@ -291,7 +298,6 @@
     "Connections.canvas",
     "CERN/Sloex/SPS slow extraction.md",
     "CERN/Meetings/SLAWG meetings.md",
-    "CERN/Projects.md",
     "CERN/Literature.md",
     "CERN/Meetings.md",
     "CERN/Actions.md",
