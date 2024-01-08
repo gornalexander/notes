@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "44096458785ccf4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERN/ECN3/Quads check.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2aef791edc83a7c1",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Technical guides.md",
+                "file": "CERN/ECN3/Quads check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Technical guides.md",
+                "file": "CERN/ECN3/Quads check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Technical guides.md"
+                "file": "CERN/ECN3/Quads check.md"
               }
             }
           },
@@ -264,8 +276,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9db827ee8d9a7298",
+  "active": "8a54796438431f34",
   "lastOpenFiles": [
+    "CERN/Technical guides.md",
+    "CERN/ECN3/Quads check.md",
     "Current status.md",
     "CERN/Projects.md",
     "CERN/Meetings.md",
@@ -285,7 +299,6 @@
     "CERN/Actions.md",
     "CERN/Things to learn.md",
     "CERN/Events.md",
-    "CERN/Technical guides.md",
     "CERN/Resources.md",
     "CERN/Meetings/SLAWG members.md",
     "CERN/Meetings/SLAWG coffee.md",
@@ -302,7 +315,6 @@
     "token.md",
     "CERN/ECN3/P42 dump func spec.md",
     "CERN/Contacts.md",
-    "Notes.md",
     "CERN/Attachments/Pasted image 20231220104849.png",
     "notes",
     "CERN/ECN3",

@@ -1,0 +1,8 @@
+#CERN #ECN3 
+
+LSA logicals to check:
+QTAD.2302
+QTAD.2306.M
+QTAF.2303
+QTAF.2304.M
+QTAF.2308.M
