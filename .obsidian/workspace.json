@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Technical guides.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Technical guides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Projects.md",
+                "file": "CERN/Technical guides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Projects.md"
+                "file": "CERN/Technical guides.md"
               }
             }
           },
@@ -267,8 +267,8 @@
   "active": "9db827ee8d9a7298",
   "lastOpenFiles": [
     "Current status.md",
-    "CERN/Meetings.md",
     "CERN/Projects.md",
+    "CERN/Meetings.md",
     "CERN/Useful python packages.md",
     "CERN/Study/Kobayashi hamiltonian.md",
     "CERN/Vocabulary.md",

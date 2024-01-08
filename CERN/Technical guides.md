@@ -30,7 +30,14 @@ Open Microsoft Remote Desktop and connect to your VPC IP.
 
 To reboot:
 *sudo reboot*
-
+### LSA
+run 
+/acc/local/share/abt/bin/ccm
+or add 
+alias ccm='/acc/local/share/abt/bin/ccm'
+to ~/.bashrc
+and run
+ccm
 ### Jupyter lab on lxplus
 On lxplus:
 jupyter notebook --no-browser --port=8080 &
@@ -52,3 +59,4 @@ ssh -D 8888 lxtunnel.cern.ch
 Some CERN websites are only accessible from the CERN network. Therefore one needs to create and use an ssh tunnel trough LXPLUS in order to access them from outside. Actually since the covid pandemy there's a dedicated server for this, LXTUNNEL. A big advantage is that this server accepts passwordless login with your SSH keypair - see the message upon login.
 **The manual method**, and consists of creating a dynamic port forwarding with the command ssh -D 8888 lxtunnel.cern.ch and then tell your system to use the local port **8888** as SOCKS proxy. The detail depends on the system.
 **On windows** I recomend using MobaXterm, commercial software available for free with some restrictions. On MobaXterm create a tunnel (Tools -> MobaSSHTunnnel (port forwarding) -> New SSH tunnel) of type **SOCKS proxy** which ssh server is **lxtunnel.cern.ch**, your username and using port **22**. Local port of your choice, **8888** for instance.
+
