@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "9db827ee8d9a7298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current status.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2aef791edc83a7c1",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/Useful python packages.md",
+                "file": "Current status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/Useful python packages.md",
+                "file": "Current status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/Useful python packages.md"
+                "file": "Current status.md"
               }
             }
           },
@@ -264,8 +276,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "83787288b524e286",
+  "active": "9db827ee8d9a7298",
   "lastOpenFiles": [
+    "CERN/Useful python packages.md",
+    "Current status.md",
     "CERN/Study/Kobayashi hamiltonian.md",
     "CERN/Vocabulary.md",
     "CERN/Timings and deadlines.md",
@@ -284,7 +298,6 @@
     "CERN/Things to learn.md",
     "CERN/Events.md",
     "CERN/Technical guides.md",
-    "CERN/Useful python packages.md",
     "CERN/Resources.md",
     "CERN/Meetings/SLAWG members.md",
     "CERN/Meetings/SLAWG coffee.md",
@@ -303,7 +316,6 @@
     "CERN/Contacts.md",
     "Notes.md",
     "CERN/Attachments/Pasted image 20231220104849.png",
-    "Pasted image 20231220104849.png{width=50%}.md",
     "notes",
     "CERN/ECN3",
     "CERN/Sloex",
