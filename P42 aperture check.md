@@ -42,10 +42,35 @@ Had no apertures:
 |12|xvw|0.4300|0.0300|0.4300|0.0300|1|
 According to [Luke's comment](https://its.cern.ch/jira/secure/RapidBoard.jspa?rapidView=8101&projectKey=SEXTWG&view=detail&selectedIssue=SEXTWG-16#:~:text=added%20a%20comment%20%2D-,24/Nov/23%2010%3A40%20AM,-I%20am%20adding) we need to understand why QSL, MBNH/V, MBW, MBXGD/MCW, MTN, MSN apertures are different in the stitched model.
 
+MDS:
+https://norma-db.web.cern.ch/magnet/idcard/5020/ (130 x 69 mm^2 aperture)
+horizontal ones in tt21 have no apertures
+
+MDX/MCXCA:
+https://norma-db.web.cern.ch/magnet/idcard/5745/ (80 x 80 mm^2 aperture)
+
+QNL:
+https://norma-db.web.cern.ch/magnet/idcard/5235/ (80 x 80 mm^2 aperture)
+There are some in tt21 and 24
+
+QSL:
+https://norma-db.web.cern.ch/magnet/idcard/5367/ (100 x 100 mm^2 aperture)
+there is one in tt22
+
+MBNH/V:
+https://norma-db.web.cern.ch/magnet/idcard/6833/ (250 x 60 mm^2 aperture)
+
+MBW:
+https://norma-db.web.cern.ch/magnet/idcard/4735/ (129 x 52 mm^2 aperture)
+
+MBXGD/MCW:
+https://norma-db.web.cern.ch/magnet/idcard/5642/ (195 x 70 mm^2 aperture)
+
 MTN:
 https://norma-db.web.cern.ch/magnet/idcard/6914/ (350 x 60 mm^2 aperture)
 In tt24 seq the vertical aperture is incorrect
 
 MSN:
 https://norma-db.web.cern.ch/magnet/idcard/5101/ (114 x 60 mm^2 aperture)
+
 
