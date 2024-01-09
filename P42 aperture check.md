@@ -40,3 +40,4 @@ Had no apertures:
 |10|xtcx|0.0600|0.0000|0.0600|0.0000|1|
 |11|xvw|0.1750|0.0300|0.1750|0.0300|2|
 |12|xvw|0.4300|0.0300|0.4300|0.0300|1|
+According to [Luke's comment](https://its.cern.ch/jira/secure/RapidBoard.jspa?rapidView=8101&projectKey=SEXTWG&view=detail&selectedIssue=SEXTWG-16#:~:text=added%20a%20comment%20%2D-,24/Nov/23%2010%3A40%20AM,-I%20am%20adding) we need to understand why QSL, MBNH/V, MBW, MBXGD/MCW, MTN, MSN apertures are different in the stitched model.
