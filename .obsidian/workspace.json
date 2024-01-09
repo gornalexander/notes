@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN/ECN3/Quads check.md",
+                "file": "CERN/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN/ECN3/Quads check.md",
+                "file": "CERN/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN/ECN3/Quads check.md"
+                "file": "CERN/Study.md"
               }
             }
           },
